@@ -1,0 +1,9 @@
+#pip install --upgrade torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+#torch==1.6.0+cpu
+#torchvision==0.7.0+cpu
+#onnxruntime==1.4.0
+onnxconverter_common
+onnxruntime-tools
+transformers==3.0.2
+wget
+netron
